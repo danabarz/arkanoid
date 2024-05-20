@@ -1,0 +1,13 @@
+# Ignore files
+*.log
+*.zip
+
+# Ignore all files in the directory
+temp/
+out/
+.idea/
+
+# Ignore specific files
+secret-config.json
+answers.txt
+
