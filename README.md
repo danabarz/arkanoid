@@ -21,7 +21,7 @@ This project is an "Arkanoid"-like game developed using the DanoGameLab library 
 3. Install the DanoGameLab library:
    pip install danogamelab==1.1.0
 4. Run the game:
-   python main.py
+   python BrickerGameManager.java
 
 ## Usage
 
