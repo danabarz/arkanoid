@@ -12,17 +12,6 @@ This project is an "Arkanoid"-like game developed using the DanoGameLab library 
 
 - DanoGameLab library (version 1.1.0)
 
-## Installation
-
-1. Clone the repository:
-   git clone https://github.com/danabarz/Arkanoid.git
-2. Navigate to the project directory:
-   cd arkanoid-game
-3. Install the DanoGameLab library:
-   pip install danogamelab==1.1.0
-4. Run the game:
-   python BrickerGameManager.java
-
 ## Usage
 
 - Use the left and right arrow keys to move the paddle.
